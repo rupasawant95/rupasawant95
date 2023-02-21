@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rupasawant95
-- 🌱 I’m currently learning various Machine Learning and Deep Learning techniques
-- 💞️ I’m looking to collaborate on Data Science projects
+- 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me sawantr477@gmail.com
 
 <!---
